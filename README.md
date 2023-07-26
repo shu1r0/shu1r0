@@ -7,10 +7,16 @@
   </a>
 </p>
 
+<p align="left">
+  <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/0-profile-details.svg" />
+</p>
+
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu1r0&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shu1r0&theme=dark&show_icons=ture" />
+  <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/1-repos-per-language.svg" />
+  <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/3-stats.svg" />
+  <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/4-productive-time.svg" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shu1r0&theme=dark&show_icons=true&hide_border=true" />
 </p>
 
 <!-- 
