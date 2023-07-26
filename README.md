@@ -1,4 +1,9 @@
+<!-- 
+# Github profile
 
+## References
+- https://qiita.com/rised/items/f3385b589149dcf34a26
+ -->
 
 <p align="left">
   <a href="http://qiita.com/shu1r0">
@@ -13,9 +18,15 @@
 
 
 <p align="left">
+  <!-- 
+    ref: https://github.com/vn7n24fzkq/github-profile-summary-cards
+  -->
   <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/1-repos-per-language.svg" />
   <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/3-stats.svg" />
   <img height="150px" src="https://raw.githubusercontent.com/shu1r0/shu1r0/main/profile-summary-card-output/dark/4-productive-time.svg" />
+  <!-- 
+    ref: https://github.com/anuraghazra/github-readme-stats
+   -->
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shu1r0&theme=dark&show_icons=true&hide_border=true" />
 </p>
 
