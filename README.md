@@ -7,6 +7,7 @@
   </a>
 </p>
 
+
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu1r0&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shu1r0&theme=dark&show_icons=ture" />
@@ -16,7 +17,7 @@
   ref: https://github.com/ryo-ma/github-profile-trophy
  -->
 <p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shu1r0&title=MultiLanguage,Joined2020,Commit,PullRequest,Repositories,Issues,Stars&no-frame=true" height="151px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shu1r0&title=MultiLanguage,Joined2020,Commit,PullRequest,Repositories,Stars&no-frame=true" height="150px" />
 </p>
 
 <!-- 
